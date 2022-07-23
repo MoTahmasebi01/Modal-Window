@@ -1,2 +1,2 @@
-# Modal-Window
+# ModalWindow
 https://ModalWindowByMo.netlify.app
